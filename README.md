@@ -58,8 +58,8 @@ Completing the internship at TestArmy was a pivotal step in my professional jour
 
 *The internship covered various topics:*
 - **Task 1**: [Exploratory Testing](https://github.com/agakalinowski/Portfolio/blob/main/exploratory_testing.md)
-- **Task 2**: Test cases – TestLink
-- **Task 3**: Bug reporting – Mantis
+- **Task 2**: [Test cases – TestLink](https://github.com/agakalinowski/Portfolio/blob/main/Test%20cases.md)
+- **Task 3**: [Bug reporting – Mantis](https://github.com/agakalinowski/Portfolio/blob/main/Bug%20reporting.md)
 - **Task 4**: REST API Postman
 - **Task 5**: MySQL basic query
 
