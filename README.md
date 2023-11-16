@@ -57,11 +57,11 @@ Furthermore, the knowledge gained during the internship allowed me to obtain val
 Completing the internship at TestArmy was a pivotal step in my professional journey, providing me with the necessary skills to enter the workforce as a proficient software testing specialist. This experience exceeded my expectations and equipped me with the essential skills for effective operation in the dynamic field of software testing.
 
 *The internship covered various topics:*
-**- Task 1: Exploratory testing 
-- Task 2: Test cases – TestLink
-- Task 3: Bug reporting – Mantis
-- Task 4: REST API Postman
-- Task 5: MySQL basic query**
+- **Task 1**: **Exploratory testing** 
+- **Task 2**: **Test cases – TestLink**
+- **Task 3**: **Bug reporting – Mantis**
+- **Task 4**: **REST API Postman**
+- **Task 5**: **MySQL basic query**
 
 ### 2. Database Commercial Project for E-commerce Advertising Shop
 
