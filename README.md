@@ -1,7 +1,7 @@
 # About Me
 
 I am a dynamic, skilled, and self-driven technical expert with outstanding organizational abilities, exceptional efficiency, and a sharp attention to detail. I excel in analyzing challenges and crafting innovative solutions, playing a central role in problem-solving. Known for my quick learning ability, I can grasp new concepts swiftly and convey them with clarity and effectiveness. Currently seeking a fresh and demanding role that will optimize my interpersonal skills and extensive experience while fostering the growth of recently acquired technical expertise in the realm of software testing.
-(./https://www.linkedin.com/in/agnieszka-kalinowska123) [Visit my LinkedIn profile]
+[Visit my LinkedIn profile](https://www.linkedin.com/in/agnieszka-kalinowska123/)
 
 ## Job Objective
 
