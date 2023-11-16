@@ -57,32 +57,7 @@ Furthermore, the knowledge gained during the internship allowed me to obtain val
 Completing the internship at TestArmy was a pivotal step in my professional journey, providing me with the necessary skills to enter the workforce as a proficient software testing specialist. This experience exceeded my expectations and equipped me with the essential skills for effective operation in the dynamic field of software testing.
 
 *The internship covered various topics:*
-- **Task 1**: **[Exploratory testing]**(https://docs.google.com/document/d/1LLEqH4Pl7XXPaIl2ceFky0Yo80TozYmgeplJ7PpATcQ/edit)
-  # Exploratory Testing for PomodoroKanban Application
-
-Exploratory tests for the PomodoroKanban application constituted a crucial phase in the assessment process, aimed at identifying potential issues and uncovering hidden aspects of functionality. During these tests, the team focused on freely exploring the application, engaging with it without a predefined script. The primary objective was to identify potential challenges related to design, usability, timer functionality, and task editing.
-
-## Test Focus Areas
-
-- **Design:** Evaluation of the overall visual design of the application.
-- **Usability:** Assessing the user-friendliness and ease of navigation.
-- **Timer Functionality:** Ensuring proper functionality and user interaction with the timer.
-- **Task Editing:** Identifying capabilities and limitations in editing tasks during execution.
-
-## Test Results
-
-The results of the exploratory tests revealed several important issues, including:
-
-- Potential navigation problems in the application.
-- Issues with text synchronization in fields.
-- Defects related to timer functionality, such as the inability to stop it after pressing the STOP button.
-
-Additionally, these tests helped identify aspects related to task editing and updating their status during execution, which proved crucial for progress monitoring and maintaining user motivation.
-
-## Conclusions
-
-The conclusions drawn from the exploratory tests served as the foundation for further actions aimed at improving the user experience and the effectiveness of the PomodoroKanban tool.
-
+- **Task 1**: **[Exploratory testing]** (https://docs.google.com/document/d/1LLEqH4Pl7XXPaIl2ceFky0Yo80TozYmgeplJ7PpATcQ/edit)
 - **Task 2**: **Test cases – TestLink**
 - **Task 3**: **Bug reporting – Mantis**
 - **Task 4**: **REST API Postman**
