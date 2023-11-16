@@ -8,4 +8,4 @@ As part of the task, I utilized TestLink to create test cases based on the gathe
 
 Even without the actual application, this proactive approach facilitated the early detection of potential errors. 
 This aligns with the principle that finding errors earlier makes their resolution easier and more cost-effective.
-HERE: [KanbanBoard GitHub Repository](https://github.com/agakalinowski/KanbanBoard) you can check my test case. Enjoy!
+Here[KanbanBoard GitHub Repository](https://github.com/agakalinowski/KanbanBoard) you can check my test case. Enjoy!
