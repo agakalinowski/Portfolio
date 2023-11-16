@@ -37,10 +37,9 @@ To support the full software development life cycle, starting from test planning
 
 ## Courses
 
-- ISTQB Foundation Level ID No20498/CTFL/2023
-- Testarmy Tester expert
-- MasterClass Software Testing with Jira & Agile
-- SQL - MySQL for Data Analytics and Business Intelligence
+- ISTQB Foundation Level ID [No20498/CTFL/2023](https://drive.google.com/file/d/1cotYvBuQ3bOtIt4V1xG1pEicOo8c8DaB/view)
+- Testarmy Tester expert [115/05/2023](https://drive.google.com/file/d/1mZnhclfEMGIsoJ0xnTcLUvNE6-P_xIFh/view)
+- MySQL Data Analytics and Business Intelligence [01/06/2023](https://drive.google.com/file/d/1wUtH-Is3J446vjJB4k5rw7fj2o_Wv7ob/view)
 - Tableau Ultimate Data Analytics (in progress)
 - Microsoft Power BI Desktop for Business Intelligence
 - Python for Data Analysis & Visualization (in progress)
@@ -49,7 +48,7 @@ To support the full software development life cycle, starting from test planning
 
 ### 1. Internship at TestArmy
 
-Completing an internship at TestArmy has been an incredibly valuable experience that has brought numerous benefits to my professional development. During this intensive period, I acquired practical skills in software testing by participating in diverse projects and real industry challenges. The internship provided me with the opportunity to collaborate with experienced testers, expanding my knowledge and understanding of best practices in the field.
+Completing an internship at TestArmy has been an incredibly valuable experience that has brought numerous benefits to my professional development. During this intensive period, I acquired **practical skills** in software **testing** by participating in diverse projects and real industry challenges. The internship provided me with the opportunity to collaborate with experienced testers, expanding my knowledge and understanding of best practices in the field.
 
 The training sessions offered by TestArmy equipped me with modern testing tools and techniques, significantly enhancing my professional skill set. Actively engaging in projects taught me how to effectively identify and resolve issues related to software quality.
 
