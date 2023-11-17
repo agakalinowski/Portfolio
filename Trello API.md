@@ -17,10 +17,10 @@ I executed scripts corresponding to various test cases, covering the following a
 - Deleting one card
 - Closing/Archiving one card
 - Moving one card to another list
-
-1.[Board](https://github.com/agakalinowski/Portfolio/blob/main/Board%20Trello%20raw.json)
-2.[List](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20List%20raw.json)
-3.[Card](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20Card%20raw.json)
+###
+[Board](https://github.com/agakalinowski/Portfolio/blob/main/Board%20Trello%20raw.json)
+[List](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20List%20raw.json)
+[Card](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20Card%20raw.json)
 
 ## Skills Developed
 
