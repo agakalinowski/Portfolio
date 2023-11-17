@@ -10,8 +10,8 @@ The MySQL course provided me with a solid foundation and practical skills that I
 
 ## Repository Structure
 
-1. **basic_queries.sql:** This file contains basic SQL queries such as SELECT, INSERT, UPDATE, DELETE to familiarize yourself with fundamental operations in the SQL language.
+1. **basic_queries.sql:** This file contains basic SQL queries such as **SELECT**, **INSERT**, **UPDATE**, **DELETE** to familiarize yourself with fundamental operations in the SQL language.
 
-2. **complex_queries.sql:** In this file, you'll find more advanced queries, including joins (JOIN), grouping (GROUP BY), filtering (WHERE), and subqueries.
+2. **complex_queries.sql:** In this file, you'll find more advanced queries, including joins (**JOIN**), grouping (**GROUP BY**), filtering (**WHERE**), and subqueries.
 
 3. **data_manipulation.sql:** This file focuses on data manipulation, including adding, updating, and deleting records in the database.
