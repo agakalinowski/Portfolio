@@ -9,15 +9,18 @@ This repository contains a collection of requests for API tests using the Postma
 
 I executed scripts corresponding to various test cases, covering the following actions:
 
-- Adding three new lists
+- Adding  new lists
 - Updating the name of one list
 - Closing/Archiving a list
-- Adding five cards to a list
+- Adding  cards to a list
 - Updating the name of one card
 - Deleting one card
 - Closing/Archiving one card
 - Moving one card to another list
-- Creating a checklist on one card
+
+*[Board](https://github.com/agakalinowski/Portfolio/blob/main/Board%20Trello%20raw.json)
+*[List](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20List%20raw.json)
+*[Card](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20Card%20raw.json)
 
 ## Skills Developed
 
