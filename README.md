@@ -60,7 +60,7 @@ Completing the internship at TestArmy was a pivotal step in my professional jour
 - **Task 1**: [Exploratory Testing](https://github.com/agakalinowski/Portfolio/blob/main/exploratory_testing.md)
 - **Task 2**: [Test cases – TestLink](https://github.com/agakalinowski/Portfolio/blob/main/Test%20cases.md)
 - **Task 3**: [Bug reporting – Mantis](https://github.com/agakalinowski/Portfolio/blob/main/Bug%20reporting.md)
-- **Task 4**: REST API Postman
+- **Task 4**: [REST API Postman](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20API.md)
 - **Task 5**: MySQL basic query
 
 ### 2. Database Commercial Project for E-commerce Advertising Shop
