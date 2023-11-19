@@ -4,8 +4,14 @@ I am a dynamic, skilled, and self-driven technical expert with outstanding organ
 [Visit my LinkedIn profile](https://www.linkedin.com/in/agnieszka-kalinowska123/)
 
 ## Job Objective
-
 To support the full software development life cycle, starting from test planning, through the design of test cases, their implementation, to result analysis, aiming to contribute to the creation of stable and high-quality products.
+## Repository
+Check my repository
+- Intership
+- MySQL commercial project
+- MySQL second commercial project
+- Power BI commercial projects
+
 
 ## Tech Skills
 
