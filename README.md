@@ -9,7 +9,7 @@ To support the full software development life cycle, starting from test planning
 Check my repository
 - [**Intership at Testarmy**](https://github.com/agakalinowski/Internship_at_TestArmy/blob/main/README.md)
 - [**MySQL commercial project**](https://github.com/agakalinowski/MySQL/blob/main/README.md)
-- Power BI commercial projects
+- Power BI commercial projects <soon>
 
 
 ## Tech Skills
