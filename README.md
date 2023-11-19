@@ -7,9 +7,8 @@ I am a dynamic, skilled, and self-driven technical expert with outstanding organ
 To support the full software development life cycle, starting from test planning, through the design of test cases, their implementation, to result analysis, aiming to contribute to the creation of stable and high-quality products.
 ## Repository
 Check my repository
-- Intership
-- MySQL commercial project
-- MySQL second commercial project
+-[**Intership at Testarmy**](https://github.com/agakalinowski/Internship_at_TestArmy/blob/main/README.md)
+- [**MySQL commercial project**](https://github.com/agakalinowski/MySQL/blob/main/README.md)
 - Power BI commercial projects
 
 
