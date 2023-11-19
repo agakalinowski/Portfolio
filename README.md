@@ -63,6 +63,5 @@ Completing the internship at TestArmy was a pivotal step in my professional jour
 - **Task 4**: [REST API Postman](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20API.md)
 - **Task 5**: MySQL basic query
 
-### 2. Database Commercial Project for E-commerce Advertising Shop
 
 
